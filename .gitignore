@@ -1,0 +1,15 @@
+# Racine
+node_modules/
+dist/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ruff_cache/
+.vite/
+.DS_Store
+*.log
